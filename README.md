@@ -13,9 +13,6 @@ TripZen is a full-stack web application for booking travel destinations and pack
 - [Environment Variables](#environment-variables)
 - [API Endpoints](#api-endpoints)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [License](#license)
-
 ---
 
 ## Features
